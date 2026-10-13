@@ -1,0 +1,332 @@
+{
+  "schema_version": 1,
+  "region": {
+    "region_id": "self_buff",
+    "bbox": [
+      930,
+      1170,
+      660,
+      110
+    ]
+  },
+  "min_margin": 0.015,
+  "templates": [
+    {
+      "effect_id": "support.extra.01",
+      "variant_id": "support.extra.01-80",
+      "path": "templates/support.extra.01-80.png",
+      "buff_scale_pct": 80,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.01",
+      "variant_id": "support.hyper.01-80",
+      "path": "templates/support.hyper.01-80.png",
+      "buff_scale_pct": 80,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.02",
+      "variant_id": "support.hyper.02-80",
+      "path": "templates/support.hyper.02-80.png",
+      "buff_scale_pct": 80,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.identity.01",
+      "variant_id": "support.identity.01-80",
+      "path": "templates/support.identity.01-80.png",
+      "buff_scale_pct": 80,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-80",
+      "path": "templates/support.attack.01-80.png",
+      "buff_scale_pct": 80,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.02",
+      "variant_id": "support.hyper.02-90",
+      "path": "templates/support.hyper.02-90.png",
+      "buff_scale_pct": 90,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.extra.01",
+      "variant_id": "support.extra.01-90",
+      "path": "templates/support.extra.01-90.png",
+      "buff_scale_pct": 90,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.identity.01",
+      "variant_id": "support.identity.01-90",
+      "path": "templates/support.identity.01-90.png",
+      "buff_scale_pct": 90,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-90",
+      "path": "templates/support.attack.01-90.png",
+      "buff_scale_pct": 90,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.01",
+      "variant_id": "support.hyper.01-90",
+      "path": "templates/support.hyper.01-90.png",
+      "buff_scale_pct": 90,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.extra.01",
+      "variant_id": "support.extra.01-100",
+      "path": "templates/support.extra.01-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.identity.01",
+      "variant_id": "support.identity.01-100",
+      "path": "templates/support.identity.01-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.01",
+      "variant_id": "support.hyper.01-100",
+      "path": "templates/support.hyper.01-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.02",
+      "variant_id": "support.hyper.02-100",
+      "path": "templates/support.hyper.02-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-100",
+      "path": "templates/support.attack.01-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.01",
+      "variant_id": "support.hyper.01-110",
+      "path": "templates/support.hyper.01-110.png",
+      "buff_scale_pct": 110,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.02",
+      "variant_id": "support.hyper.02-110",
+      "path": "templates/support.hyper.02-110.png",
+      "buff_scale_pct": 110,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.extra.01",
+      "variant_id": "support.extra.01-110",
+      "path": "templates/support.extra.01-110.png",
+      "buff_scale_pct": 110,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.identity.01",
+      "variant_id": "support.identity.01-110",
+      "path": "templates/support.identity.01-110.png",
+      "buff_scale_pct": 110,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-110",
+      "path": "templates/support.attack.01-110.png",
+      "buff_scale_pct": 110,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.02",
+      "variant_id": "support.hyper.02-120",
+      "path": "templates/support.hyper.02-120.png",
+      "buff_scale_pct": 120,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-120",
+      "path": "templates/support.attack.01-120.png",
+      "buff_scale_pct": 120,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.hyper.01",
+      "variant_id": "support.hyper.01-120",
+      "path": "templates/support.hyper.01-120.png",
+      "buff_scale_pct": 120,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.extra.01",
+      "variant_id": "support.extra.01-120",
+      "path": "templates/support.extra.01-120.png",
+      "buff_scale_pct": 120,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.identity.01",
+      "variant_id": "support.identity.01-120",
+      "path": "templates/support.identity.01-120.png",
+      "buff_scale_pct": 120,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.bard",
+      "variant_id": "support.attack.bard-172808-100",
+      "path": "templates/support.attack.bard-172808-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.paladin",
+      "variant_id": "support.attack.paladin-173122-100",
+      "path": "templates/support.attack.paladin-173122-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.artist",
+      "variant_id": "support.attack.artist-173342-100",
+      "path": "templates/support.attack.artist-173342-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.valkyrie",
+      "variant_id": "support.attack.valkyrie-173810-100",
+      "path": "templates/support.attack.valkyrie-173810-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.artist",
+      "variant_id": "support.attack.artist-173326-100",
+      "path": "templates/support.attack.artist-173326-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-173326-100",
+      "path": "templates/support.attack.01-173326-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    },
+    {
+      "effect_id": "support.attack.01",
+      "variant_id": "support.attack.01-172808-100",
+      "path": "templates/support.attack.01-172808-100.png",
+      "buff_scale_pct": 100,
+      "inset": 5,
+      "threshold": 0.94
+    }
+  ],
+  "text": {
+    "bank_path": "glyph-bank-v5.json",
+    "line_layout": {
+      "80": [
+        3,
+        8
+      ],
+      "90": [
+        3,
+        10
+      ],
+      "100": [
+        4,
+        11
+      ],
+      "110": [
+        3,
+        12
+      ],
+      "120": [
+        4,
+        13
+      ]
+    },
+    "fallback_desaturated": true,
+    "shape_bank_path": "target-glyphs.json"
+  },
+  "stack": {
+    "bank_path": "stack-glyph-bank-v2.json"
+  },
+  "scale_transfer": {
+    "native_sizes": {
+      "80": 30,
+      "90": 33,
+      "100": 37,
+      "110": 41,
+      "120": 45
+    },
+    "threshold": 0.88
+  },
+  "gradient_fallback_threshold": 0.7,
+  "overlay_icons": {
+    "support.extra.01": "skills/bd_skill_01_31.png",
+    "support.attack.01": "skills/buff_837.png",
+    "support.attack.additional": "skills/buff_837.png",
+    "support.identity.01": "skills/buff_838.png",
+    "support.hyper.01": "skills/buff_840.png",
+    "support.hyper.02": "skills/buff_839.png",
+    "support.attack.bard": "skills/bd_skill_01_12.png",
+    "support.attack.paladin": "skills/hk_skill_01_17.png",
+    "support.attack.artist": "skills/yy_skill_01_9.png",
+    "support.attack.valkyrie": "skills/hkf_skill_01_20.png",
+    "support.major_code": "skills/bd_skill_01_31.png",
+    "support.adrenaline": "skills/ability_235.png",
+    "support.master": "skills/buff_119.png",
+    "support.standing": "skills/ark_passive_evolution_18.png",
+    "support.elixir_support": "skills/buff_116.png",
+    "support.mana_flow": "skills/ability_86.png",
+    "support.harmony": "skills/ark_passive_bd_17.png"
+  },
+  "merge_marker_path": "templates/merge-marker.png"
+}
